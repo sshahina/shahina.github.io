@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Shahina, a fifth year graduate student in the Department of Physics at the University of Notre Dame. I am conducting research in Nuclear Astrophysics under the supervision of Prof. Michael Wischer.
+Hi! I am Shahina, a fifth year graduate student in the Department of Physics at the University of Notre Dame. I am conducting research in Nuclear Astrophysics under the supervision of Prof. Michael Wiescher.
