@@ -166,45 +166,40 @@ redirect_from:
 </section>
 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<section>
+  <h2>UNDERGRADUATE RESEARCH EXPERIENCE</h2>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  <h3>Indian Institute of Science Education and Research (IISER) Mohali, India</h3>
+  <p><em>M.S., Department of Physics, Advisor: Prof. Satyajit Jena</em> <span>2017 – 2018</span></p>
+  <ul>
+    <li>
+      <p>Worked on the simulation and design of an Air shower Multi-Mesh Proportional Counter (Large area detector that can veto external particles present in cosmic radiation).</p>
+    </li>
+  </ul>
+
+  <h3>Bhabha-Atomic Research Center (BARC) Mumbai, India</h3>
+  <p><em>Experimental Nuclear Physics, Advisor: Dr. Y.K. Gupta</em> <span>Summer 2017</span></p>
+  <ul>
+    <li>
+      <p>Performed detailed analysis of the data of experimentally extracted barrier distributions in the context of the fusion of heavy nuclei.</p>
+    </li>
+    <li>
+      <p>Obtained a quantitative understanding of the entrance channel effects induced by the target and the projectile by performing high-precision measurements of the fusion excitation functions.</p>
+    </li>
+  </ul>
+
+  <h3>Inter-University Accelerator Centre (IUAC) New Delhi, India</h3>
+  <p><em>Experimental Nuclear Physics, Advisor: Dr. Jagdish Gehlot</em> <span>Summer 2016</span></p>
+  <ul>
+    <li>
+      <p>Worked on the assembly and characterization of a gas detector.</p>
+    </li>
+    <li>
+      <p>Used a radioactive sample of Americium-241 as an alpha source for the position extraction of ions detected by a Multi-wire Proportional Counter (MWPC).</p>
+    </li>
+    <li>
+      <p>Received hands-on experience of making an MWPC in the lab.</p>
+    </li>
+  </ul>
+</section>
