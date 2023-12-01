@@ -389,6 +389,59 @@ redirect_from:
   </ul>
 </section>
 
+<section>
+  <h2>ACADEMIC SERVICE AND PROFESSIONAL AFFILIATIONS</h2>
 
+  <ul>
+    <li>
+      <strong>Member of the Organizing Committee</strong> <br>
+      JINA-CEE Frontiers in Nuclear Astrophysics Conference <br>
+      Notre Dame, IN <br>
+      May 25-27, 2022
+    </li>
+
+    <li>
+      <strong>Member</strong> <br>
+      Joint Institute of Nuclear Astrophysics <br>
+      Center for the Evolution of the Elements (JINA-CEE) <br>
+      Notre Dame, IN <br>
+      2018-Present
+    </li>
+
+    <li>
+      <strong>Member</strong> <br>
+      International Research Network for Nuclear Astrophysics (IReNA) <br>
+      Notre Dame, IN <br>
+      2021-Present
+    </li>
+
+    <li>
+      <strong>Member</strong> <br>
+      CASPAR Collaboration <br>
+      Notre Dame, IN <br>
+      2018-Present
+    </li>
+
+    <li>
+      <strong>Member</strong> <br>
+      Science Policy Initiative at Notre Dame <br>
+      Notre Dame, IN <br>
+      2018-Present
+    </li>
+
+    <li>
+      <strong>Member</strong> <br>
+      Association for Women in Science (AWIS) <br>
+      Notre Dame, IN <br>
+      2018-Present
+    </li>
+
+    <li>
+      <strong>Member</strong> <br>
+      American Physical Society (APS) <br>
+      2018-Present
+    </li>
+  </ul>
+</section>
 
 
