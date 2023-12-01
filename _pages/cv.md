@@ -202,4 +202,12 @@ redirect_from:
       <p>Received hands-on experience of making an MWPC in the lab.</p>
     </li>
   </ul>
+
+  <h3>Centre for Theoretical Physics (JMI) New Delhi, India</h3>
+  <p><em>Classical Mechanics, Advisor: Prof. Ratin Adhikari</em> <span>Summer 2015</span></p>
+  <ul>
+    <li>
+      <p>Worked on the construction of Lagrangian from its equations of motion (an inverse problem of the calculus of variation) and transformation of generalized coordinates.</p>
+    </li>
+  </ul>
 </section>
