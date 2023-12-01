@@ -77,6 +77,16 @@ redirect_from:
   </ul>
 </section>
 
+<section>
+  <h2>TECHNICAL SKILLS</h2>
+
+  <ul>
+    <li><strong>Programming Languages:</strong> C, C++, Python, Fortran</li>
+    <li><strong>Software:</strong> SRIM, ROOT, Matlab, Solid works, Labview, LATEX</li>
+    <li><strong>Detector Modeling Software:</strong> GEANT4, Garfield, MCNP</li>
+  </ul>
+</section>
+
 
 
 <section>
