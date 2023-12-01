@@ -77,22 +77,7 @@ redirect_from:
   </ul>
 </section>
 
-<section>
-  <h2>TECHNICAL SKILLS</h2>
-  <dl>
-    <dt>Programming Languages:</dt>
-    <dd>C, C++, Python, Fortran</dd>
 
-    <dt>Software:</dt>
-    <dd>SRIM, ROOT, Matlab, Solid works, Labview, LATEX</dd>
-
-    <dt>Detector Modeling Software:</dt>
-    <dd>GEANT4, Garfield, MCNP</dd>
-
-    <dt>Nuclear Database:</dt>
-    <dd>ENSDF, EXFOR, NNDC</dd>
-  </dl>
-</section>
 
 <section>
   <h2>PUBLICATIONS</h2>
