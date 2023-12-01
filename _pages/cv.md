@@ -357,7 +357,7 @@ redirect_from:
 </section>
 
 
- <section>
+<section>
   <h2>LEADERSHIP AND OUTREACH</h2>
 
   <ul>
@@ -381,7 +381,7 @@ redirect_from:
     </li>
 
     <li>
-      <strong>Graduate Student Government, University of Notre Dame Notre Dame, IN</strong><br>
+      <strong>Graduate Student Government, University of Notre Dame, Notre Dame, IN</strong><br>
       <em>Sustainability Chair</em> <span>2021-2022</span>
       <ul>
         <li>Maintained graduate student garden plots, reinvigorating composting practices in the garden and expanding the recycling initiatives across campus.</li>
@@ -389,6 +389,7 @@ redirect_from:
     </li>
   </ul>
 </section>
+
 
 
 
