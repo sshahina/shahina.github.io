@@ -137,10 +137,10 @@ redirect_from:
   <p><em>University of Notre Dame, Notre Dame, IN</em></p>
   <p><em>Graduate Research Assistant, Department of Physics and Astronomy</em> <span>August 2018 – Present</span></p>
 
-  <h3>Direct Measurement of the low energy resonances in \(\Neag\) reaction</h3>
+  <h3>Direct Measurement of the low energy resonances in \(^{22}\text{Ne}(\alpha,\gamma)^{26}\text{Mg}\)  reaction</h3>
   <ul>
     <li>
-      <p>Performed measurement of the low energy resonances in \(\Neag\) reaction at CASPAR (Compact Accelerator System for Performing Astrophysical Research), located 4850 ft. underground at the Sanford Underground Research Facility (SURF), South Dakota, focusing on (\(E_{\text{lab}}\) = 650, 830 keV) resonances, providing key contributions to the understanding of stellar neutron sources.</p>
+      <p>Performed measurement of the low energy resonances in \(^{22}\text{Ne}(\alpha,\gamma)^{26}\text{Mg}\)  reaction at CASPAR (Compact Accelerator System for Performing Astrophysical Research), located 4850 ft. underground at the Sanford Underground Research Facility (SURF), South Dakota, focusing on (\(E_{\text{lab}}\) = 650, 830 keV) resonances, providing key contributions to the understanding of stellar neutron sources.</p>
     </li>
     <li>
       <p>Utilized HECTOR (\(\gamma\)-summing detector) for this measurement.</p>
@@ -157,10 +157,10 @@ redirect_from:
     </li>
   </ul>
 
-  <h3>Measurement of the 830 keV resonance in \(\Nean\) reaction</h3>
+  <h3>Measurement of the 830 keV resonance in \(^{22}\text{Ne}(\alpha,n)^{25}\text{Mg}\)  reaction</h3>
   <ul>
     <li>
-      <p>Successfully measured the 830 keV resonance in \(\Nean\) reaction using a stilbene scintillator detector, contributing to the understanding of neutron sources for the s-process nucleosynthesis.</p>
+      <p>Successfully measured the 830 keV resonance in\(^{22}\text{Ne}(\alpha,n)^{25}\text{Mg}\) reaction using a stilbene scintillator detector, contributing to the understanding of neutron sources for the s-process nucleosynthesis.</p>
     </li>
   </ul>
 </section>
