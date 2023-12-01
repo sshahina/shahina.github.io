@@ -132,6 +132,39 @@ redirect_from:
   </ul>
 </section>
 
+<section>
+  <h2>GRADUATE RESEARCH EXPERIENCE</h2>
+  <p><em>University of Notre Dame, Notre Dame, IN</em></p>
+  <p><em>Graduate Research Assistant, Department of Physics and Astronomy</em> <span>August 2018 – Present</span></p>
+
+  <h3>Direct Measurement of the low energy resonances in \(\Neag\) reaction</h3>
+  <ul>
+    <li>
+      <p>Performed measurement of the low energy resonances in \(\Neag\) reaction at CASPAR (Compact Accelerator System for Performing Astrophysical Research), located 4850 ft. underground at the Sanford Underground Research Facility (SURF), South Dakota, focusing on (\(E_{\text{lab}}\) = 650, 830 keV) resonances, providing key contributions to the understanding of stellar neutron sources.</p>
+    </li>
+    <li>
+      <p>Utilized HECTOR (\(\gamma\)-summing detector) for this measurement.</p>
+    </li>
+  </ul>
+
+  <h3>Low energy measurement of the \(^{25,26}\)Mg\((\alpha,n)^{28,29}\)Si reaction via neutron spectroscopy</h3>
+  <ul>
+    <li>
+      <p>Performed precise measurements of \(^{25,26}\)Mg\((\alpha,n)^{28,29}\)Si reaction cross-sections at the University of Notre Dame’s nuclear science laboratory.</p>
+    </li>
+    <li>
+      <p>Employed neutron spectroscopy techniques using ORNL Deuterated Spectroscopic Array (ODeSA) and MLEM Algorithm for neutron spectrum unfolding.</p>
+    </li>
+  </ul>
+
+  <h3>Measurement of the 830 keV resonance in \(\Nean\) reaction</h3>
+  <ul>
+    <li>
+      <p>Successfully measured the 830 keV resonance in \(\Nean\) reaction using a stilbene scintillator detector, contributing to the understanding of neutron sources for the s-process nucleosynthesis.</p>
+    </li>
+  </ul>
+</section>
+
 
 Work experience
 ======
