@@ -300,7 +300,7 @@ redirect_from:
       Talk: “Direct measurement of the low energy resonances in \(^{22}\text{Ne}(\alpha,\gamma)^{26}\text{Mg}\) reaction” at the Fall meeting of the Division of Nuclear Physics of the American Physical Society held from October 11-14, 2021.
     </li>
     <li>
-      Talk: “Measurement of the $\Mgan$ reaction cross-section at low energy” at the Fall meeting of the Division of Nuclear Physics of the American Physical Society held from October 29–November 1, 2020.
+      Talk: “Measurement of the \(^{25}\text{Mg}(\alpha,n)^{28}\text{Si}\)  reaction cross-section at low energy” at the Fall meeting of the Division of Nuclear Physics of the American Physical Society held from October 29–November 1, 2020.
     </li>
   </ul>
 </section>
