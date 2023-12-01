@@ -91,6 +91,7 @@ redirect_from:
   </dl>
 </section>
 
+
 Work experience
 ======
 * Summer 2015: Research Assistant
