@@ -55,12 +55,29 @@ redirect_from:
   </table>
 </section>
 
+<section>
+  <h2>RESEARCH INTERESTS</h2>
+  <ul>
+    <li>
+      <strong>Nuclear reactions important for astrophysical processes:</strong>
+      Slow (s-process nucleosynthesis) and fast neutron capture (r-process) reactions. I am highly specialized in the study of radiative capture (e.g., (α,γ) and (p,γ)) and (α,n) reactions, which act as important neutron sources for the s-process nucleosynthesis.
+    </li>
+    <li>
+      <strong>Machine Learning Applications in Nuclear Data Analysis:</strong>
+      Utilizing machine learning algorithms for nuclear data analysis (e.g., neutron spectrum unfolding using convolutional neural networks) and understanding nuclear structure.
+    </li>
+    <li>
+      <strong>Low Energy Nuclear Spectroscopy:</strong>
+      Conducting precise and detailed low-energy nuclear spectroscopy using gamma-ray and neutron detectors. Designing and executing accelerator-based experiments for the measurement of nuclear resonances. Performing R-matrix and Hauser-Feshbach analyses for obtaining cross-sections of astrophysically important nuclear reactions.
+    </li>
+    <li>
+      <strong>Nuclear Structure:</strong>
+      α-clustering in light nuclei, nuclear levels of compound nuclei formed in the radiative capture and (α,n) reactions.
+    </li>
+  </ul>
+</section>
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
 
 Work experience
 ======
