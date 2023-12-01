@@ -329,4 +329,32 @@ redirect_from:
   </ul>
 </section>
 
+<section>
+  <h2>FELLOWSHIPS AND SPECIAL ACHIEVEMENTS</h2>
+  <ul>
+    <li>
+      <strong>Innovation of Science Pursuit for Inspired Research (INSPIRE) Fellowship</strong> <span>2013-2018</span><br>
+      <em>Department of Physics, Indian Institute of Science Education and Research (IISER)</em>
+      <ul>
+        <li>Awarded a nationally competitive five-year INSPIRE fellowship by the Department of Science and Technology (DST), India.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Young Scientist’s Conference New Delhi, India</strong> <span>2015</span><br>
+      <em>Indian Institute of Technology (IIT), Delhi</em>
+      <ul>
+        <li>Represented IISER Mohali in the Young Scientist’s Conference as a part of India International Science Festival.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Joint Entrance Examination (JEE)</strong> <span>2013</span><br>
+      <em>All India engineering entrance examination</em>
+      <ul>
+        <li>Ranked among the top 1 percent in JEE Mains and JEE Advanced, the ALL India engineering entrance examination for IITs.</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+
 
