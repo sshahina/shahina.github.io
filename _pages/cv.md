@@ -356,5 +356,37 @@ redirect_from:
   </ul>
 </section>
 
+<section>
+  <h2>LEADERSHIP AND OUTREACH</h2>
+
+  <ul>
+    <li>
+      <strong>Upward Bound, University of Notre Dame Notre Dame, IN</strong><br>
+      <em>Tutor</em> <span>Fall 2023</span>
+      <ul>
+        <li>Provided academic guidance and mentoring to high school students.</li>
+        <li>Assisted students in preparing for college applications and achieving success in college.</li>
+        <li>Focused on developing effective study skills and offering SAT and ACT preparation support.</li>
+      </ul>
+    </li>
+
+    <li>
+      <strong>Science Policy Initiative, Indianapolis, IN</strong><br>
+      <em>Poster Presentation</em> <span>Feb 24, 2022</span>
+      <ul>
+        <li>Presented a poster on my research for the Indiana Science Communication Day event at the Indiana Statehouse.</li>
+        <li>Communicated my Ph.D. research to the Senator of South Bend at the Indiana Science Communication Day event at the Indiana Statehouse.</li>
+      </ul>
+    </li>
+
+    <li>
+      <strong>Graduate Student Government, University of Notre Dame Notre Dame, IN</strong><br>
+      <em>Sustainability Chair</em> <span>2021-2022</span>
+      <ul>
+        <li>Maintained graduate student garden plots, reinvigorating composting practices in the garden and expanding the recycling initiatives across campus.</li>
+      </ul>
+    </li>
+  </ul>
+</section>
 
 
