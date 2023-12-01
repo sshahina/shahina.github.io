@@ -305,3 +305,28 @@ redirect_from:
   </ul>
 </section>
 
+<section>
+  <h2>SUMMER SCHOOLS AND WORKSHOPS</h2>
+  <ul>
+    <li>
+      July 11-22, 2022: National Nuclear Physics Summer School held at the Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts.
+    </li>
+    <li>
+      June 12-19, 2022: 11th European Summer School on Experimental Nuclear Astrophysics, Catania, Italy.
+    </li>
+    <li>
+      June 6-10, 2022: 19th Exotic Beam Summer School (EBSS2022), University of Notre Dame, Notre Dame, Indiana.
+    </li>
+    <li>
+      June 21 - 24, 2021: 2021 R-matrix Workshop on Methods and Applications.
+    </li>
+    <li>
+      June 22 – July 3, 2020: Machine Learning and Data Analysis for Nuclear Physics, a Nuclear TALENT Course at the ECT*, Trento, Italy.
+    </li>
+    <li>
+      March 4-6, 2020: A.I. for Nuclear Physics workshop, Thomas Jefferson National Accelerator Facility, Newport News, VA.
+    </li>
+  </ul>
+</section>
+
+
