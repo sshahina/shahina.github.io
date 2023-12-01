@@ -356,7 +356,8 @@ redirect_from:
   </ul>
 </section>
 
-<section>
+
+ <section>
   <h2>LEADERSHIP AND OUTREACH</h2>
 
   <ul>
@@ -388,5 +389,6 @@ redirect_from:
     </li>
   </ul>
 </section>
+
 
 
