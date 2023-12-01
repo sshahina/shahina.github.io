@@ -444,4 +444,33 @@ redirect_from:
   </ul>
 </section>
 
+<section>
+  <h2>REFERENCES</h2>
+
+  <ul>
+    <li>
+      <strong>Prof. Michael Wiescher</strong> <br>
+      181 Nieuwland Science Hall, Notre Dame, IN 46556 <br>
+      Email: <a href="mailto:Michael.C.Wiescher.1@nd.edu">Michael.C.Wiescher.1@nd.edu</a>
+    </li>
+
+    <li>
+      <strong>Dr. Michael T. Febbraro</strong> <br>
+      Air Force Institute of Technology, Wright-Patterson AFB, Dayton, OH, 45433 <br>
+      Email: <a href="mailto:michael.febbraro@us.af.mil">michael.febbraro@us.af.mil</a>
+    </li>
+
+    <li>
+      <strong>Dr. Richard James deBoer</strong> <br>
+      180A Nieuwland Science Hall, Notre Dame, IN 46556 <br>
+      Email: <a href="mailto:Richard.J.deBoer.12@nd.edu">Richard.J.deBoer.12@nd.edu</a>
+    </li>
+
+    <li>
+      <strong>Prof. Manoel Couder</strong> <br>
+      222 Nieuwland Science Hall, Notre Dame, IN 46556 <br>
+      Email: <a href="mailto:mcouder@nd.edu">mcouder@nd.edu</a>
+    </li>
+  </ul>
+</section>
 
