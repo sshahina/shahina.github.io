@@ -1,19 +1,10 @@
 
-@@ -0,0 +1,17 @@
----
-permalink: /non-menu-page/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
-author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+@@ -6,7 +6,7 @@ author_profile: true
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+{% if author.googlescholar %}
+  {{ You can also find my articles on <u><a href="{% author.googlescholar %}">my Google Scholar profile</a>.</u> }}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
-Heading 1
-======
-
-Heading 2
-======
+{% include base_path %}
